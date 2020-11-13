@@ -2,6 +2,7 @@
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
 | [Бинарная классификация текстов](text%20binary%20classification) | Определение токсичности текстов на основе корпуса размеченных текстов| *pandas, numpy, scipy, matplotlib.pyplot, time, re, nltk, sklearn, lightgbm, torch, transformers, tqdm.notebook* |
+| [Предсказание температуры стали](steel%20temperature%20predict) | Предсказание конечного измерения температуры на основе данных о легировании примерно 3000 партий металла| *pandas, numpy, matplotlib.pyplot, sklearn, lightgbm* |
 | [Прогноз заказов такси](forecasting%20taxi%20orders) | Прогноз кол-ва заказов такси на ближайший час исходя из статистики заказов за последние полгода| *pandas, numpy, sklearn, lightgbm, matplotlib.pyplot, statsmodels.tsa.seasonal* |
 | [Предсказание цены автомобиля](car%20price%20prediction) | Предсказание на основе данных о ценах около 350К подержанных автомобилей | *pandas, numpy, sklearn, lightgbm, matplotlib.pyplot* |
 | [Предсказание оттока клиентов банка](bank%20customers%20churn_rate) | Построение модели оттока клиентов банка | *pandas, sklearn, matplotlib.pyplot* |
